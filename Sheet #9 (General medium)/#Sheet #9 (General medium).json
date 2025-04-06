@@ -1,0 +1,255 @@
+{
+    "id": 223207,
+    "name": "Sheet #9 (General medium)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1596588960,
+    "relativeTimeSeconds": 147307708,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": null,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": null,
+    "city": null,
+    "season": "2019-2020",
+    "problems": [
+        {
+            "contest_id": 223207,
+            "index": "A",
+            "name": "Drawing Task",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/A"
+        },
+        {
+            "contest_id": 223207,
+            "index": "B",
+            "name": "Arpa’s hard exam and Mehrdad’s naive cheat",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/B"
+        },
+        {
+            "contest_id": 223207,
+            "index": "C",
+            "name": "Dragons",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/C"
+        },
+        {
+            "contest_id": 223207,
+            "index": "D",
+            "name": "Juicer",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/D"
+        },
+        {
+            "contest_id": 223207,
+            "index": "E",
+            "name": "Keyboard",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/E"
+        },
+        {
+            "contest_id": 223207,
+            "index": "F",
+            "name": "Puzzles",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/F"
+        },
+        {
+            "contest_id": 223207,
+            "index": "G",
+            "name": "Twins",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/G"
+        },
+        {
+            "contest_id": 223207,
+            "index": "H",
+            "name": "Launch of Collider",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/H"
+        },
+        {
+            "contest_id": 223207,
+            "index": "I",
+            "name": "Lineland Mail",
+            "time_limit": "3 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/I"
+        },
+        {
+            "contest_id": 223207,
+            "index": "J",
+            "name": "Shaass and Oskols",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/J"
+        },
+        {
+            "contest_id": 223207,
+            "index": "K",
+            "name": "Stars Drawing (Easy Edition)",
+            "time_limit": "3 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/K"
+        },
+        {
+            "contest_id": 223207,
+            "index": "L",
+            "name": "Announcement !",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/L"
+        },
+        {
+            "contest_id": 223207,
+            "index": "M",
+            "name": "!Palindromes",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/M"
+        },
+        {
+            "contest_id": 223207,
+            "index": "N",
+            "name": "Pumbaa And Apples",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/N"
+        },
+        {
+            "contest_id": 223207,
+            "index": "O",
+            "name": "Yaroslav and Permutations",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/O"
+        },
+        {
+            "contest_id": 223207,
+            "index": "P",
+            "name": "Calculating Function",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/P"
+        },
+        {
+            "contest_id": 223207,
+            "index": "Q",
+            "name": "Dreamoon and Stairs",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Q"
+        },
+        {
+            "contest_id": 223207,
+            "index": "R",
+            "name": "Ksenia and Pan Scales",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/R"
+        },
+        {
+            "contest_id": 223207,
+            "index": "S",
+            "name": "Mahmoud and a Triangle",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/S"
+        },
+        {
+            "contest_id": 223207,
+            "index": "T",
+            "name": "Olesya and Rodion",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/T"
+        },
+        {
+            "contest_id": 223207,
+            "index": "U",
+            "name": "T-primes",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/U"
+        },
+        {
+            "contest_id": 223207,
+            "index": "V",
+            "name": "Balanced Rating Changes",
+            "time_limit": "1 s",
+            "memory_limit": "512 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/V"
+        },
+        {
+            "contest_id": 223207,
+            "index": "W",
+            "name": "Football",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/W"
+        },
+        {
+            "contest_id": 223207,
+            "index": "X",
+            "name": "Mountain Scenery",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/X"
+        },
+        {
+            "contest_id": 223207,
+            "index": "Y",
+            "name": "Polo the Penguin and Segments",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Y"
+        },
+        {
+            "contest_id": 223207,
+            "index": "Z",
+            "name": "Fraction",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223207/problem/Z"
+        }
+    ]
+}

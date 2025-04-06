@@ -1,0 +1,255 @@
+{
+    "id": 219774,
+    "name": "Sheet #3 (Arrays)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1592676600,
+    "relativeTimeSeconds": 151220068,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": null,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2019-2020",
+    "problems": [
+        {
+            "contest_id": 219774,
+            "index": "A",
+            "name": "Summation",
+            "time_limit": "2 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/A"
+        },
+        {
+            "contest_id": 219774,
+            "index": "B",
+            "name": "Searching",
+            "time_limit": "2 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/B"
+        },
+        {
+            "contest_id": 219774,
+            "index": "C",
+            "name": "Replacement",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/C"
+        },
+        {
+            "contest_id": 219774,
+            "index": "D",
+            "name": "Positions in array",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/D"
+        },
+        {
+            "contest_id": 219774,
+            "index": "E",
+            "name": "Lowest Number",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/E"
+        },
+        {
+            "contest_id": 219774,
+            "index": "F",
+            "name": "Reversing",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/F"
+        },
+        {
+            "contest_id": 219774,
+            "index": "G",
+            "name": "Palindrome Array",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/G"
+        },
+        {
+            "contest_id": 219774,
+            "index": "H",
+            "name": "Sorting",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/H"
+        },
+        {
+            "contest_id": 219774,
+            "index": "I",
+            "name": "Smallest Pair",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/I"
+        },
+        {
+            "contest_id": 219774,
+            "index": "J",
+            "name": "Lucky Array",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/J"
+        },
+        {
+            "contest_id": 219774,
+            "index": "K",
+            "name": "Sum Digits",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/K"
+        },
+        {
+            "contest_id": 219774,
+            "index": "L",
+            "name": "Max Subarray",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/L"
+        },
+        {
+            "contest_id": 219774,
+            "index": "M",
+            "name": "Replace MinMax",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/M"
+        },
+        {
+            "contest_id": 219774,
+            "index": "N",
+            "name": "Check Code",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/N"
+        },
+        {
+            "contest_id": 219774,
+            "index": "O",
+            "name": "Fibonacci",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/O"
+        },
+        {
+            "contest_id": 219774,
+            "index": "P",
+            "name": "Minimize Number",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/P"
+        },
+        {
+            "contest_id": 219774,
+            "index": "Q",
+            "name": "Count Subarrays",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Q"
+        },
+        {
+            "contest_id": 219774,
+            "index": "R",
+            "name": "Permutation with arrays",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/R"
+        },
+        {
+            "contest_id": 219774,
+            "index": "S",
+            "name": "Search In Matrix",
+            "time_limit": "2 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/S"
+        },
+        {
+            "contest_id": 219774,
+            "index": "T",
+            "name": "Matrix",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/T"
+        },
+        {
+            "contest_id": 219774,
+            "index": "U",
+            "name": "Is B a subsequence of A ?",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/U"
+        },
+        {
+            "contest_id": 219774,
+            "index": "V",
+            "name": "Frequency Array",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/V"
+        },
+        {
+            "contest_id": 219774,
+            "index": "W",
+            "name": "Mirror Array",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/W"
+        },
+        {
+            "contest_id": 219774,
+            "index": "X",
+            "name": "8 Neighbors",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/X"
+        },
+        {
+            "contest_id": 219774,
+            "index": "Y",
+            "name": "Range sum query",
+            "time_limit": "1.5 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Y"
+        },
+        {
+            "contest_id": 219774,
+            "index": "Z",
+            "name": "Binary Search",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219774/problem/Z"
+        }
+    ]
+}

@@ -1,0 +1,93 @@
+{
+    "id": 326907,
+    "name": "Contest #2",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1620417600,
+    "relativeTimeSeconds": 123479068,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": 1,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2021-2022",
+    "problems": [
+        {
+            "contest_id": 326907,
+            "index": "A",
+            "name": "Timon and Pumbaa",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/A"
+        },
+        {
+            "contest_id": 326907,
+            "index": "B",
+            "name": "Drawing `X'",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/B"
+        },
+        {
+            "contest_id": 326907,
+            "index": "C",
+            "name": "Finding Minimums",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/C"
+        },
+        {
+            "contest_id": 326907,
+            "index": "D",
+            "name": "Range Sum",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/D"
+        },
+        {
+            "contest_id": 326907,
+            "index": "E",
+            "name": "Hady Rides the Train",
+            "time_limit": "0.5 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/E"
+        },
+        {
+            "contest_id": 326907,
+            "index": "F",
+            "name": "Break Number",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/F"
+        },
+        {
+            "contest_id": 326907,
+            "index": "G",
+            "name": "Construct the Sum",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/G"
+        },
+        {
+            "contest_id": 326907,
+            "index": "H",
+            "name": "Simple Mod",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326907/problem/H"
+        }
+    ]
+}

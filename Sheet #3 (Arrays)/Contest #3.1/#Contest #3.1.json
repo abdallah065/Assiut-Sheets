@@ -1,0 +1,84 @@
+{
+    "id": 329103,
+    "name": "Contest #3.1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1621627500,
+    "relativeTimeSeconds": 122269168,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": 1,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2020-2021",
+    "problems": [
+        {
+            "contest_id": 329103,
+            "index": "A",
+            "name": "Square or rectangle",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/A"
+        },
+        {
+            "contest_id": 329103,
+            "index": "B",
+            "name": "Reversing",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/B"
+        },
+        {
+            "contest_id": 329103,
+            "index": "C",
+            "name": "Choose Elements",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/C"
+        },
+        {
+            "contest_id": 329103,
+            "index": "D",
+            "name": "Counting Elements",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/D"
+        },
+        {
+            "contest_id": 329103,
+            "index": "E",
+            "name": "Alternating Array",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/E"
+        },
+        {
+            "contest_id": 329103,
+            "index": "F",
+            "name": "Front - End",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/F"
+        },
+        {
+            "contest_id": 329103,
+            "index": "G",
+            "name": "Even Hate Odd",
+            "time_limit": "5 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/329103/problem/G"
+        }
+    ]
+}

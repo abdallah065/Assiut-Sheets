@@ -1,0 +1,255 @@
+{
+    "id": 219158,
+    "name": "Sheet #1 (Data type - Conditions)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 3600,
+    "startTimeSeconds": 1592602200,
+    "relativeTimeSeconds": 151294468,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": null,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2019-2020",
+    "problems": [
+        {
+            "contest_id": 219158,
+            "index": "A",
+            "name": "Say Hello With C++",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/A"
+        },
+        {
+            "contest_id": 219158,
+            "index": "B",
+            "name": "Basic Data Types",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/B"
+        },
+        {
+            "contest_id": 219158,
+            "index": "C",
+            "name": "Simple Calculator",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/C"
+        },
+        {
+            "contest_id": 219158,
+            "index": "D",
+            "name": "Difference",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/D"
+        },
+        {
+            "contest_id": 219158,
+            "index": "E",
+            "name": "Area of a Circle",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/E"
+        },
+        {
+            "contest_id": 219158,
+            "index": "F",
+            "name": "Digits Summation",
+            "time_limit": "0.25 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/F"
+        },
+        {
+            "contest_id": 219158,
+            "index": "G",
+            "name": "Summation from 1 to N",
+            "time_limit": "0.25 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/G"
+        },
+        {
+            "contest_id": 219158,
+            "index": "H",
+            "name": "Two numbers",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/H"
+        },
+        {
+            "contest_id": 219158,
+            "index": "I",
+            "name": "Welcome for you with Conditions",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/I"
+        },
+        {
+            "contest_id": 219158,
+            "index": "J",
+            "name": "Multiples",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/J"
+        },
+        {
+            "contest_id": 219158,
+            "index": "K",
+            "name": "Max and Min",
+            "time_limit": "0.25 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/K"
+        },
+        {
+            "contest_id": 219158,
+            "index": "L",
+            "name": "The Brothers",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/L"
+        },
+        {
+            "contest_id": 219158,
+            "index": "M",
+            "name": "Capital or Small or Digit",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/M"
+        },
+        {
+            "contest_id": 219158,
+            "index": "N",
+            "name": "Char",
+            "time_limit": "0.25 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/N"
+        },
+        {
+            "contest_id": 219158,
+            "index": "O",
+            "name": "Calculator",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/O"
+        },
+        {
+            "contest_id": 219158,
+            "index": "P",
+            "name": "First digit !",
+            "time_limit": "0.25 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/P"
+        },
+        {
+            "contest_id": 219158,
+            "index": "Q",
+            "name": "Coordinates of a Point",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Q"
+        },
+        {
+            "contest_id": 219158,
+            "index": "R",
+            "name": "Age in Days",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/R"
+        },
+        {
+            "contest_id": 219158,
+            "index": "S",
+            "name": "Interval",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/S"
+        },
+        {
+            "contest_id": 219158,
+            "index": "T",
+            "name": "Sort Numbers",
+            "time_limit": "0.25 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/T"
+        },
+        {
+            "contest_id": 219158,
+            "index": "U",
+            "name": "Float or int",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/U"
+        },
+        {
+            "contest_id": 219158,
+            "index": "V",
+            "name": "Comparison",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/V"
+        },
+        {
+            "contest_id": 219158,
+            "index": "W",
+            "name": "Mathematical Expression",
+            "time_limit": "0.25 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/W"
+        },
+        {
+            "contest_id": 219158,
+            "index": "X",
+            "name": "Two intervals",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/X"
+        },
+        {
+            "contest_id": 219158,
+            "index": "Y",
+            "name": "The last 2 digits",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Y"
+        },
+        {
+            "contest_id": 219158,
+            "index": "Z",
+            "name": "Hard Compare",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/219158/problem/Z"
+        }
+    ]
+}

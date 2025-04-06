@@ -1,0 +1,255 @@
+{
+    "id": 223206,
+    "name": "Sheet #8 (General easy)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1596588780,
+    "relativeTimeSeconds": 147307888,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": null,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2019-2020",
+    "problems": [
+        {
+            "contest_id": 223206,
+            "index": "A",
+            "name": "Palindromes Replace",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/A"
+        },
+        {
+            "contest_id": 223206,
+            "index": "B",
+            "name": "Watermelon",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/B"
+        },
+        {
+            "contest_id": 223206,
+            "index": "C",
+            "name": "Koko And The Transformation",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/C"
+        },
+        {
+            "contest_id": 223206,
+            "index": "D",
+            "name": "Bear and Big Brother",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/D"
+        },
+        {
+            "contest_id": 223206,
+            "index": "E",
+            "name": "George and Accommodation",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/E"
+        },
+        {
+            "contest_id": 223206,
+            "index": "F",
+            "name": "Fox And Snake",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/F"
+        },
+        {
+            "contest_id": 223206,
+            "index": "G",
+            "name": "Magnets",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/G"
+        },
+        {
+            "contest_id": 223206,
+            "index": "H",
+            "name": "Presents",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/H"
+        },
+        {
+            "contest_id": 223206,
+            "index": "I",
+            "name": "Colorful Stones (Simplified Edition)",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/I"
+        },
+        {
+            "contest_id": 223206,
+            "index": "J",
+            "name": "Lucky Division",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/J"
+        },
+        {
+            "contest_id": 223206,
+            "index": "K",
+            "name": "Prime Fibonacci",
+            "time_limit": "0.25 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/K"
+        },
+        {
+            "contest_id": 223206,
+            "index": "L",
+            "name": "Sereja and Dima",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/L"
+        },
+        {
+            "contest_id": 223206,
+            "index": "M",
+            "name": "The New Year: Meeting Friends",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/M"
+        },
+        {
+            "contest_id": 223206,
+            "index": "N",
+            "name": "Cakeminator",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/N"
+        },
+        {
+            "contest_id": 223206,
+            "index": "O",
+            "name": "Free Ice Cream",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/O"
+        },
+        {
+            "contest_id": 223206,
+            "index": "P",
+            "name": "Police Recruits",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/P"
+        },
+        {
+            "contest_id": 223206,
+            "index": "Q",
+            "name": "Night at the Museum",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Q"
+        },
+        {
+            "contest_id": 223206,
+            "index": "R",
+            "name": "Arrival of the General",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/R"
+        },
+        {
+            "contest_id": 223206,
+            "index": "S",
+            "name": "Good Number",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/S"
+        },
+        {
+            "contest_id": 223206,
+            "index": "T",
+            "name": "Helpful Maths",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/T"
+        },
+        {
+            "contest_id": 223206,
+            "index": "U",
+            "name": "Ilya and Bank Account",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/U"
+        },
+        {
+            "contest_id": 223206,
+            "index": "V",
+            "name": "Is it rated?",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/V"
+        },
+        {
+            "contest_id": 223206,
+            "index": "W",
+            "name": "Mahmoud and Longest Uncommon Subsequence",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/W"
+        },
+        {
+            "contest_id": 223206,
+            "index": "X",
+            "name": "Panoramix's Prediction",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/X"
+        },
+        {
+            "contest_id": 223206,
+            "index": "Y",
+            "name": "Team Olympiad",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Y"
+        },
+        {
+            "contest_id": 223206,
+            "index": "Z",
+            "name": "Decoding",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223206/problem/Z"
+        }
+    ]
+}

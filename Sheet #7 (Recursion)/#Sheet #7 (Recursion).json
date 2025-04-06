@@ -1,0 +1,255 @@
+{
+    "id": 223339,
+    "name": "Sheet #7 (Recursion)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1596588540,
+    "relativeTimeSeconds": 147308128,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": null,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2019-2020",
+    "problems": [
+        {
+            "contest_id": 223339,
+            "index": "A",
+            "name": "Print Recursion",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/A"
+        },
+        {
+            "contest_id": 223339,
+            "index": "B",
+            "name": "Print from 1 to N",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/B"
+        },
+        {
+            "contest_id": 223339,
+            "index": "C",
+            "name": "Print from N to 1",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/C"
+        },
+        {
+            "contest_id": 223339,
+            "index": "D",
+            "name": "Print Digits using Recursion",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/D"
+        },
+        {
+            "contest_id": 223339,
+            "index": "E",
+            "name": "Base Converssion",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/E"
+        },
+        {
+            "contest_id": 223339,
+            "index": "F",
+            "name": "Print Even Indices",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/F"
+        },
+        {
+            "contest_id": 223339,
+            "index": "G",
+            "name": "Pyramid",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/G"
+        },
+        {
+            "contest_id": 223339,
+            "index": "H",
+            "name": "Inverted Pyramid",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/H"
+        },
+        {
+            "contest_id": 223339,
+            "index": "I",
+            "name": "Count Vowels",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/I"
+        },
+        {
+            "contest_id": 223339,
+            "index": "J",
+            "name": "Factorial",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/J"
+        },
+        {
+            "contest_id": 223339,
+            "index": "K",
+            "name": "Max Number",
+            "time_limit": "1 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/K"
+        },
+        {
+            "contest_id": 223339,
+            "index": "L",
+            "name": "Summation",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/L"
+        },
+        {
+            "contest_id": 223339,
+            "index": "M",
+            "name": "Suffix Sum",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/M"
+        },
+        {
+            "contest_id": 223339,
+            "index": "N",
+            "name": "Sum of a Matrix",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/N"
+        },
+        {
+            "contest_id": 223339,
+            "index": "O",
+            "name": "Fibonacci",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/O"
+        },
+        {
+            "contest_id": 223339,
+            "index": "P",
+            "name": "Log2",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/P"
+        },
+        {
+            "contest_id": 223339,
+            "index": "Q",
+            "name": "3n + 1 sequence",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Q"
+        },
+        {
+            "contest_id": 223339,
+            "index": "R",
+            "name": "Palindrome Array",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/R"
+        },
+        {
+            "contest_id": 223339,
+            "index": "S",
+            "name": "Array Average",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/S"
+        },
+        {
+            "contest_id": 223339,
+            "index": "T",
+            "name": "Combination",
+            "time_limit": "2 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/T"
+        },
+        {
+            "contest_id": 223339,
+            "index": "U",
+            "name": "Knapsack",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/U"
+        },
+        {
+            "contest_id": 223339,
+            "index": "V",
+            "name": "Creating Expression1",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/V"
+        },
+        {
+            "contest_id": 223339,
+            "index": "W",
+            "name": "Reach Value",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/W"
+        },
+        {
+            "contest_id": 223339,
+            "index": "X",
+            "name": "The maximum path-sum",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/X"
+        },
+        {
+            "contest_id": 223339,
+            "index": "Y",
+            "name": "Number of Ways",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Y"
+        },
+        {
+            "contest_id": 223339,
+            "index": "Z",
+            "name": "Left Max",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223339/problem/Z"
+        }
+    ]
+}

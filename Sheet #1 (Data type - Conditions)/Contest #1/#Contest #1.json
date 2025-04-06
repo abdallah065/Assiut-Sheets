@@ -1,0 +1,102 @@
+{
+    "id": 326175,
+    "name": "Contest #1",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1619812800,
+    "relativeTimeSeconds": 124083868,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": 1,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2021-2022",
+    "problems": [
+        {
+            "contest_id": 326175,
+            "index": "A",
+            "name": "Winter Sale",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/A"
+        },
+        {
+            "contest_id": 326175,
+            "index": "B",
+            "name": "Memo and Momo",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/B"
+        },
+        {
+            "contest_id": 326175,
+            "index": "C",
+            "name": "Next Alphabet",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/C"
+        },
+        {
+            "contest_id": 326175,
+            "index": "D",
+            "name": "Ali Baba and Puzzles",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/D"
+        },
+        {
+            "contest_id": 326175,
+            "index": "E",
+            "name": "Interval Sweep",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/E"
+        },
+        {
+            "contest_id": 326175,
+            "index": "F",
+            "name": "Adding Bits",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/F"
+        },
+        {
+            "contest_id": 326175,
+            "index": "G",
+            "name": "Katryoshka",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/G"
+        },
+        {
+            "contest_id": 326175,
+            "index": "H",
+            "name": "Data Type Guessing",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/H"
+        },
+        {
+            "contest_id": 326175,
+            "index": "I",
+            "name": "Lucky Numbers",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/326175/problem/I"
+        }
+    ]
+}

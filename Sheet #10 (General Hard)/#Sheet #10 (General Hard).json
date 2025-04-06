@@ -1,0 +1,255 @@
+{
+    "id": 223340,
+    "name": "Sheet #10 (General Hard)",
+    "type": "ICPC",
+    "phase": "FINISHED",
+    "frozen": false,
+    "durationSeconds": 10800,
+    "startTimeSeconds": 1596589740,
+    "relativeTimeSeconds": 147306928,
+    "preparedBy": "Hussien_Ibrahiem",
+    "websiteUrl": null,
+    "description": null,
+    "difficulty": null,
+    "kind": "Training Contest",
+    "icpcRegion": null,
+    "country": "Egypt",
+    "city": "Assiut",
+    "season": "2019-2020",
+    "problems": [
+        {
+            "contest_id": 223340,
+            "index": "A",
+            "name": "Palindromes Replace",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/A"
+        },
+        {
+            "contest_id": 223340,
+            "index": "B",
+            "name": "Delete from the Left",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/B"
+        },
+        {
+            "contest_id": 223340,
+            "index": "C",
+            "name": "Koko And The Transformation",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/C"
+        },
+        {
+            "contest_id": 223340,
+            "index": "D",
+            "name": "Hussien and Strings",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/D"
+        },
+        {
+            "contest_id": 223340,
+            "index": "E",
+            "name": "Construct The Sum",
+            "time_limit": "5 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/E"
+        },
+        {
+            "contest_id": 223340,
+            "index": "F",
+            "name": "Marks",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/F"
+        },
+        {
+            "contest_id": 223340,
+            "index": "G",
+            "name": "Smallest Product",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/G"
+        },
+        {
+            "contest_id": 223340,
+            "index": "H",
+            "name": "Chewbaсca and Number",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/H"
+        },
+        {
+            "contest_id": 223340,
+            "index": "I",
+            "name": "Coins",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/I"
+        },
+        {
+            "contest_id": 223340,
+            "index": "J",
+            "name": "Help Vasilisa the Wise 2",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/J"
+        },
+        {
+            "contest_id": 223340,
+            "index": "K",
+            "name": "Snacktower",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/K"
+        },
+        {
+            "contest_id": 223340,
+            "index": "L",
+            "name": "Two Squares",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/L"
+        },
+        {
+            "contest_id": 223340,
+            "index": "M",
+            "name": "Postcard",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/M"
+        },
+        {
+            "contest_id": 223340,
+            "index": "N",
+            "name": "Katryoshka",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/N"
+        },
+        {
+            "contest_id": 223340,
+            "index": "O",
+            "name": "Help Koko",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/O"
+        },
+        {
+            "contest_id": 223340,
+            "index": "P",
+            "name": "No Time for Dragons",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/P"
+        },
+        {
+            "contest_id": 223340,
+            "index": "Q",
+            "name": "Bulbs",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Q"
+        },
+        {
+            "contest_id": 223340,
+            "index": "R",
+            "name": "Cut Ribbon",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/R"
+        },
+        {
+            "contest_id": 223340,
+            "index": "S",
+            "name": "DZY Loves Chessboard",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/S"
+        },
+        {
+            "contest_id": 223340,
+            "index": "T",
+            "name": "Easter Eggs",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/T"
+        },
+        {
+            "contest_id": 223340,
+            "index": "U",
+            "name": "From S To T",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/U"
+        },
+        {
+            "contest_id": 223340,
+            "index": "V",
+            "name": "New Password",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/V"
+        },
+        {
+            "contest_id": 223340,
+            "index": "W",
+            "name": "Hussien and Arrays 2",
+            "time_limit": "1 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/W"
+        },
+        {
+            "contest_id": 223340,
+            "index": "X",
+            "name": "Strange Addition",
+            "time_limit": "2 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/X"
+        },
+        {
+            "contest_id": 223340,
+            "index": "Y",
+            "name": "Spiral",
+            "time_limit": "5 s",
+            "memory_limit": "256 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Y"
+        },
+        {
+            "contest_id": 223340,
+            "index": "Z",
+            "name": "Triangle",
+            "time_limit": "2 s",
+            "memory_limit": "64 MB",
+            "group_code": "MWSDmqGsZm",
+            "url": "https://codeforces.com/group/MWSDmqGsZm/contest/223340/problem/Z"
+        }
+    ]
+}
